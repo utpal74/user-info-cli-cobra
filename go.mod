@@ -1,4 +1,4 @@
-module github.com/user-info-cli-tool
+module github.com/utpal74/user-info-cli-cobra
 
 go 1.25.1
 

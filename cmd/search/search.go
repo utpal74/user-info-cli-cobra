@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/user-info-cli-tool/internal/controller/user"
-	"github.com/user-info-cli-tool/internal/repository/memory"
+	"github.com/utpal74/user-info-cli-cobra/internal/controller/user"
+	"github.com/utpal74/user-info-cli-cobra/internal/repository/memory"
 )
 
 var caseSensitive bool

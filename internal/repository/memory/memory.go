@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/user-info-cli-tool/pkg/model"
+	"github.com/utpal74/user-info-cli-cobra/pkg/model"
 )
 
 // ErrNotFound returns when there is no user found.

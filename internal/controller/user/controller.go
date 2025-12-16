@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/user-info-cli-tool/internal/repository"
-	"github.com/user-info-cli-tool/pkg/model"
+	"github.com/utpal74/user-info-cli-cobra/internal/repository"
+	"github.com/utpal74/user-info-cli-cobra/pkg/model"
 )
 
 // ErrNotFound returns when there is no user found.

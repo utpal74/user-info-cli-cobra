@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/user-info-cli-tool/internal/controller/user"
-	httphandler "github.com/user-info-cli-tool/internal/handler/http"
-	"github.com/user-info-cli-tool/internal/repository/memory"
+	"github.com/utpal74/user-info-cli-cobra/internal/controller/user"
+	httphandler "github.com/utpal74/user-info-cli-cobra/internal/handler/http"
+	"github.com/utpal74/user-info-cli-cobra/internal/repository/memory"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/user-info-cli-tool/internal/controller/user"
+	"github.com/utpal74/user-info-cli-cobra/internal/controller/user"
 )
 
 // Handler defines a user http handler.

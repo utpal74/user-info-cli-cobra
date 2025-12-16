@@ -1,6 +1,6 @@
 package main
 
-import "github.com/user-info-cli-tool/cmd/search"
+import "github.com/utpal74/user-info-cli-cobra/cmd/search"
 
 func main() {
 	search.Execute()
